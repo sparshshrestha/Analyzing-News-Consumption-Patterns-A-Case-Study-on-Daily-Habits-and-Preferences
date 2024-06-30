@@ -1,8 +1,4 @@
-Certainly! Here's a short GitHub readme for your case study:
-
----
-
-# QMM1001 Case Study 2: Analysis of News Watching Behavior
+# Analyzing News Consumption Patterns: A Case Study on Daily Habits and Preferences
 
 This repository contains R code and analysis for Case Study 2 of QMM1001. The study investigates the relationship between news consumption habits and daily activities, focusing on the behavior of Sparsh Shrestha over a period of 90 days.
 
